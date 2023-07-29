@@ -1,4 +1,4 @@
 # Sandesh Yadav
 Social links webiste
-<h1>Visit site 👇</h1>
-<h2>https://sandesh4548.github.io/sandesh-yadav/</h2>
+<h3>Visit site 👇</h3>
+<h4>https://sandesh4548.github.io/sandesh-yadav/</h4>
